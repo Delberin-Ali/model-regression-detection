@@ -1,0 +1,17 @@
+# Virtual environments
+model/
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Environment variables
+.env
+.env.*
+
+# Local generated files
+results/
+reports/
